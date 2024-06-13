@@ -1,4 +1,4 @@
-# Computer Vision Engineer
+# Ph.D. Student
 
 ### Education
 - Ph.D., Computer Science | Kansas State University, Manhattan, Kansas, USA (Continue)
