@@ -8,5 +8,5 @@
 ### Work Experience
 Research Assistant at Kansas State University
  
+<img src="assets/under_construction.gif" width="800"/>
 
-![](assets/under_construction.gif)
