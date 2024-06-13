@@ -7,7 +7,6 @@
 
 ### Work Experience
 Research Assistant at Kansas State University
-
-### Projects 
+ 
 
 ![](assets/under_construction.gif)
