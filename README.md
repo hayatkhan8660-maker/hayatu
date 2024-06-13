@@ -9,4 +9,5 @@
 Research Assistant at Kansas State University
 
 ### Projects 
-Multi-model Human Activity Recognition
+
+![](assets/under_construction.gif)
