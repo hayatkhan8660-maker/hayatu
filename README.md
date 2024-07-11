@@ -1,7 +1,7 @@
 # Ph.D. Student
 
 ### Education
-- Ph.D., Computer | Kansas State University, Manhattan, Kansas, USA (Continue 🙂)
+- Ph.D., Computer Science | Kansas State University, Manhattan, Kansas, USA (Continue 🙂)
 - M.S., Computer Science | Sejong University, Seoul, South Korea (_February 2021_)
 - B.S., Computer Science | Islamia College University Peshawar, Peshawar, KPK, Pakistan (_December 2018_)
 
